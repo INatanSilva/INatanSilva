@@ -1,6 +1,7 @@
-# Oiii! Eu sou o Natan Silva 👋
+# Oii eu sou o Natan Silva, um entusiasta na programação. 👋
 
-Sou desenvolvedor apaixonado por tecnologia e programação. Sempre em busca de aprender novas ferramentas e compartilhar conhecimento com a comunidade!
+Sou desenvolvedor mobile apaixonado por tecnologia e programação. Sempre em busca de aprender novas ferramentas e compartilhar conhecimento com a comunidade!
+
 
 ---
 
@@ -17,4 +18,4 @@ Sou desenvolvedor apaixonado por tecnologia e programação. Sempre em busca de 
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-silva-925705291/)
