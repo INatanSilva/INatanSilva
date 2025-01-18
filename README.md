@@ -19,3 +19,9 @@ Sou desenvolvedor mobile apaixonado por tecnologia e programação. Sempre em bu
 
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-silva-925705291/)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
