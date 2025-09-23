@@ -1,6 +1,6 @@
 # Oii, eu sou o Natan Silva. 👋🏽
 
-Sou desenvolvedor mobile apaixonado por tecnologia e programação. Sempre em busca de aprender novas ferramentas e compartilhar conhecimento com a comunidade!
+Sou desenvolvedor backend apaixonado por tecnologia e programação. Sempre em busca de aprender novas ferramentas e compartilhar conhecimento com a comunidade!
 
 
 ---
