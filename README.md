@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/INatanSilva/milesmorales/main/milesmoralesf.png" width="280"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+Java;Backend+Developer;Spring+Boot+Enthusiast;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+Java;Backend+Developer;Spring+Boot+Entusiasta;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 
 Apaixonado por tecnologia, arquitetura de software e desenvolvimento backend.
