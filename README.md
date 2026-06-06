@@ -2,8 +2,6 @@
 
 <img src="./milesmorales.jpg" width="280"/>
 
-# 🕷️ Natan Silva
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+Java;Backend+Developer;Spring+Boot+Enthusiast;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 ### 👨🏽‍💻 Desenvolvedor de Software Java
