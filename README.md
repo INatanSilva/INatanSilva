@@ -1,63 +1,130 @@
 <div align="center">
 
-<img src="./milesmorales.jpg" alt="Miles Morales" width="280"/>
+<img src="./milesmorales.jpg" width="280"/>
 
-# 👨🏽‍💻 Desenvolvedor de Software Java
+# 🕷️ Natan Silva
 
-### Olá, eu sou Natan Silva 👋🏽
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+Java;Backend+Developer;Spring+Boot+Enthusiast;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
-Desenvolvedor de software apaixonado por tecnologia, desenvolvimento backend e aprendizado contínuo.  
-Estou sempre buscando evoluir minhas habilidades, criar projetos práticos e compartilhar conhecimento com a comunidade.
+### 👨🏽‍💻 Desenvolvedor de Software Java
+
+Apaixonado por tecnologia, arquitetura de software e desenvolvimento backend.
+Transformando ideias em aplicações escaláveis utilizando Java e Spring Boot.
 
 </div>
 
 ---
 
-## 🚀 Tecnologias
+## 🕸️ Sobre Mim
 
-### ☕ Linguagens
+```java
+public class NatanSilva {
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
-</div>
+    private final String role = "Desenvolvedor de Software Java";
+    private final String location = "Portugal";
+    private final String education = "Análise e Desenvolvimento de Sistemas";
+    
+    String[] languages = {
+        "Java",
+        "Kotlin"
+    };
 
-<br>
+    String[] frameworks = {
+        "Spring Boot"
+    };
 
-### 🌱 Frameworks
+    String[] frontend = {
+        "HTML",
+        "CSS"
+    };
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
-</div>
+    public String currentFocus() {
+        return "Backend, APIs REST e Arquitetura de Software";
+    }
+}
+```
 
-<br>
+---
 
-### 🎨 Frontend
+# 🚀 Stack Tecnológica
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+## ☕ Linguagens
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin" />
+</p>
+
+## 🌱 Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+# ⚡ Sequência de Contribuições
 
-- Desenvolvimento Backend com Java
-- Spring Boot
-- APIs REST
-- Banco de Dados SQL
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🕷️ Perfil Profissional
+
+<div align="center">
+
+| Área | Conhecimento |
+|--------|-------------|
+| ☕ Backend | Java |
+| 🌱 Framework | Spring Boot |
+| 🗄️ Banco de Dados | MySQL |
+| 🐳 DevOps | Docker |
+| ☁️ Cloud | AWS |
+| 📱 Mobile | Kotlin |
+| 🎨 Frontend | HTML & CSS |
+
+</div>
+
+---
+
+# 🎯 Atualmente Estudando
+
 - Arquitetura de Software
-- Cloud Computing
+- Microsserviços
+- Spring Security
+- Docker
+- Cloud AWS
+- Boas práticas de APIs REST
 
 ---
 
-## 📫 Contato
+# 🌐 Conecte-se comigo
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/natan-silva-925705291/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -66,6 +133,8 @@ Estou sempre buscando evoluir minhas habilidades, criar projetos práticos e com
 
 <div align="center">
 
-### 🚀 Transformando ideias em software através do código.
+## 🕸️ "Com grandes responsabilidades vêm grandes sistemas."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </div>
